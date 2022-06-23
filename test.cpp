@@ -10,5 +10,4 @@ int main()
 void Donothing(){
 	cout <<" tao chim to" <<endl;
 	cout<< "Im me m di"<<endl;
-	
 }
