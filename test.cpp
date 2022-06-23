@@ -10,5 +10,5 @@ int main()
 void Donothing(){
 	cout <<" Sanh chim to" <<endl;
 	cout<< "Im me m di"<<endl;
-	
+	cout<< "Phat chim be nhat quang ngai" <<endl;
 }
