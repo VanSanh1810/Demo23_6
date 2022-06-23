@@ -12,4 +12,5 @@ void Nhac()
 {
 	cout<< " Young in love and free"<< endl;
 	cout<< " extreme music"<< endl;
+	cout<< " hehe "<<endl;
 }
