@@ -35,5 +35,5 @@ float tinhnhan(int a, int b)
 }
 void tnekhai()
 {
-	cout << "neSon" << endl;
+	cout << "t thay roi" << endl;
 }
