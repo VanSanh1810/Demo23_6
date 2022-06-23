@@ -7,6 +7,7 @@ int main()
 	cout << "vansanh" << endl;
 	return 0;
 }
+
 void Nhac()
 {
 	cout<< " Young in love and free"<< endl;
