@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+
+
+int  TinhTru(int a, int b);
 int main()
 {
 	int a, b;
@@ -7,6 +10,14 @@ int main()
 	tinhtong(a, b);
 	return 0;
 }
+int TinhTru(int a, int b)
+{
+	int c=a-b;
+	cout<< c<< endl;
+	return c;
+	
+}
+
 
 int tinhtong(int a, int b)
 {
