@@ -9,5 +9,6 @@ int main()
 }
 void Nhac()
 {
-	cout<< " Young in love and free";
+	cout<< " Young in love and free"<< endl;
+	cout<< " extreme music"<< endl;
 }
