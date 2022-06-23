@@ -2,11 +2,12 @@
 using namespace std;
 
 
-void TinhTru(int a, int b);
+int  TinhTru(int a, int b);
 int main()
 {
 	int a, b;
-	cin >> a,b;
+	cin >> a>>b;
+	tinhtong(a,b);
 	return 0;
 }
 int TinhTru(int a, int b)
@@ -17,4 +18,10 @@ int TinhTru(int a, int b)
 	
 }
 
+
+int tinhtong(int a, int b)
+{
+	cout<<a+b;
+	return a+b;
+}
 
