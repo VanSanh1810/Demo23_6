@@ -7,3 +7,6 @@ int main()
 	cout << "vansanh" << endl;
 	return 0;
 }
+void Donothing(){
+	
+}
