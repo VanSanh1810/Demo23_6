@@ -7,8 +7,6 @@ int main()
 	cout << "vansanh" << endl;
 	return 0;
 }
-void Donothing(){
-	cout <<" tao chim to" <<endl;
-	cout<< "Im me m di"<<endl;
-	cout<< "Phat chim be nhat quang ngai" <<endl;
+void haha {
+	int a;
 }
