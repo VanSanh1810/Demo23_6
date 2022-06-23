@@ -18,11 +18,10 @@ int TinhTru(int a, int b)
 	return c;
 }
 
-
-void chia(int a, int b){
-	cout << a/b;
+void chia(int a, int b)
+{
+	cout << a / b;
 }
-
 
 int tinhtong(int a, int b)
 {
@@ -34,4 +33,7 @@ float tinhnhan(int a, int b)
 	float d = a * b;
 	return d;
 }
-
+void tnekhai()
+{
+	cout << nekhai << endl;
+}
