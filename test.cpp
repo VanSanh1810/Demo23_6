@@ -1,13 +1,15 @@
 #include <iostream>
 using namespace std;
-int tinh_Tong(int a, int b);
 int main()
 {
 	int a, b;
-	cin >> a, b;
+	cin >> a >> b;
+	tinhtong(a, b);
 	return 0;
 }
-int tinh_Tong(int a, int b)
+
+int tinhtong(int a, int b)
 {
-	int s = 0;
+	cout << a + b;
+	return a + b;
 }
